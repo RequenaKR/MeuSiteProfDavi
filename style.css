@@ -1,12 +1,12 @@
 body{
     font-family: Arial;
-    background: linear-gradient(to right,#000000,#141414);
+    background: linear-gradient(to right,#0b0034,#1ac7da);
     color:white;
     text-align:center;
 }
 
 h1{
-    color:#e50914;
+    color:#960808;
 }
 
 img {
@@ -21,7 +21,7 @@ img {
     width:200px;
     height:200px;
     border-radius:50%;
-    border:3px solid #e50914;
+    border:3px solid #930007;
 }
 
 .container{
@@ -36,7 +36,7 @@ img {
 }
 
 .card{
-    background:#1f1f1f;
+    background:#4d0000;
     border-radius:10px;
     margin:20px;
     padding:15px;
