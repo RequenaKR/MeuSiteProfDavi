@@ -2,9 +2,9 @@
 let filmes = [
 
     {
-    titulo: "Interestellar",
-    imagem: "Imagens/Interstellar_Filme.png",
-    descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
+    titulo: "Harry Potter",
+    imagem: "Harry_Potter_Pedra_Filosofal_2001.jpg",
+    descricao: "Narra a jornada de um jovem órfão que descobre, aos 11 anos, ser um bruxo famoso por ter sobrevivido a um ataque do terrível Lord Voldemort quando era bebê."
     }
     
     ];
@@ -13,9 +13,9 @@ let filmes = [
     let series = [
     
     {
-    titulo: "Stranger Things",
-    imagem: "Imagens/StrangerThings_Filme.jpg",
-    descricao: "Um grupo de crianças enfrenta forças sobrenaturais e experimentos secretos em uma pequena cidade."
+    titulo: "Peaky Blinders",
+    imagem: "PB.jpg",
+    descricao: "É um drama de época aclamado pela crítica que narra a ascensão da família gângster Shelby em Birmingham, Inglaterra, logo após a Primeira Guerra Mundial."
     }
 
     
